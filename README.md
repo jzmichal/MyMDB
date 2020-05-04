@@ -8,4 +8,4 @@ This project is currently on hold as I'm trying to find a job right now and don'
 
 I've already created a good portion of the user interface, I just need to work on a cleaner data pipeline and querying in realtime (app is a bit slow as of now), as well as the recommendation system.
 
-Note that this was my first time ever working in swift or on an app, thus I'm not as familiar as I should be with best practices in Swift. Everything is done programatically as I didn't want to spend the time learning low level front end UI design.
+Note that this was my first time ever working in swift or on an app, thus I'm not as familiar as I should be with best practices in Swift. Everything is done programatically.
